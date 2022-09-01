@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Distributionally Robust State Estimation for Nonlinear Systems**
 
-Major Revision in the IEEE Transactions on Signal Processing
+Published in the _IEEE Transactions on Signal Processing_ (DOI: [10.1109/TSP.2022.3203225](https://doi.org/10.1109/TSP.2022.3203225))
    
 By Shixiong Wang
 
@@ -32,6 +32,11 @@ From the Department of Industrial Systems Engineering and Management, National U
 
     * The folder contains all the source codes for the online supplementary materials. Specifically, the codes can generate Figures 7-9 and Tables IV-VI.
     
+***See Also***
+
+[Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier](https://github.com/Spratm-Asleaf/DRSE-Outlier)
+
+[Robust State Estimation for Linear Systems Under Distributional Uncertainty](https://github.com/Spratm-Asleaf/DRSE)
 
 ***Warrant***
 
